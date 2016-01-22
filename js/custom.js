@@ -36,13 +36,13 @@ jQuery(function($) {
     Bactstretch js
 =============================================== */
       $.backstretch([
-          "images/bx-slider/jam1.jpg",
-          "images/bx-slider/jam2.jpg",
-          "images/bx-slider/jam3.jpg",
-          "images/bx-slider/jam4.jpg",
-          "images/bx-slider/jam5.jpg",
-          "images/bx-slider/jam6.jpg",
-          "images/bx-slider/jam7.jpg"
+          "..images/bx-slider/jam1.jpg",
+          "..images/bx-slider/jam2.jpg",
+          "..images/bx-slider/jam3.jpg",
+          "..images/bx-slider/jam4.jpg",
+          "..images/bx-slider/jam5.jpg",
+          "..images/bx-slider/jam6.jpg",
+          "..images/bx-slider/jam7.jpg"
         ], {
             fade: 750,
             duration: 4000

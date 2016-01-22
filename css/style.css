@@ -326,6 +326,10 @@ p.time-text{
 	color: #D13D2F;
 	border-color: #D13D2F;
 }
+.socail-link li a .fa-youtube:hover{
+	color: #cd201f;
+	border-color: #cd201f;
+}
 .socail-link li a .fa-linkedin:hover{
 	color: #006DC0;
 	border-color: #006DC0;

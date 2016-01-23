@@ -41,8 +41,8 @@ jQuery(function($) {
           "images/bx-slider/bg3.jpg",
           "images/bx-slider/bg4.jpg",
           "images/bx-slider/bg5.jpg",
-          "images/bx-slider/bg1.jpg",
-          "images/bx-slider/bg2.jpg"
+          "images/bx-slider/bg6.jpg",
+          "images/bx-slider/bg7.jpg"
         ], {
             fade: 750,
             duration: 4000

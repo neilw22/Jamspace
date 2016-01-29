@@ -263,6 +263,20 @@ p.time-text{
 /*SUBSCRIBE PAGE
 ======================================================*/
 
+#mc_embed_signup{
+	color: white;
+}
+
+.clear{
+	color: #009bdf;
+}
+
+#mce-EMAIL,
+#mce-FNAME,
+#mce-LNAME{
+	color: black;
+}
+
 .subscribe-form{
 	width: 50%;
 	margin: 0 auto;
